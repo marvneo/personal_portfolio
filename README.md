@@ -1,4 +1,5 @@
-# personal_portfolio
+# Personal Portfolio
+
 ## Technology used: Django, SQLite3. 
 ### Created a web app that shows the projects I have done. Doubles as a blog and To-Do list. 
 
